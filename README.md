@@ -23,11 +23,6 @@ Passionate about cloud, automation, and system reliability.
 
 ---
 
-## ⏱ Coding Activity
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ilya776&theme=tokyonight)
-
----
-
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/illiabilous)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/illiabls)  
