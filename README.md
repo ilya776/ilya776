@@ -14,20 +14,13 @@ Passionate about cloud, automation, and system reliability.
 
 ---
 
-## 📌 Featured Projects
-🔹 [Trading Bot Platform](https://github.com/...) – Crypto trading platform with AWS + Kubernetes  
-🔹 [CI/CD Templates](https://github.com/...) – Production-ready pipelines for GitLab/GitHub  
-🔹 [Book Parser](https://github.com/...) – Django + React full-stack app with JWT & Excel export  
-
----
-
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bilous-illia&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilous-illia&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=ilya776&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilya776&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/...)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/...)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/illiabilous)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/illiabls)  
 📧 bilous.illia@email.com
