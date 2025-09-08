@@ -26,4 +26,4 @@ Passionate about cloud, automation, and system reliability.
 ## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/illiabilous)  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/illiabls)  
-📧 bilous.illia@email.com
+📧 illiaa.bilous@gmail.com
